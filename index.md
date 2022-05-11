@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minima
 ---
 
 {% include 01-name.md %}
